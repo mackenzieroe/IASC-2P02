@@ -4,7 +4,7 @@
 
 Hello World!
 
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+[GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ![](images/download.png)
 
