@@ -4,4 +4,4 @@
 
 Hello World!
 
-![](images/download.png | width=100)
+![](images/download.png)
