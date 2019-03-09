@@ -10,4 +10,4 @@ As a digital humanist myself, I find discussing new forms of information gatheri
 
 ## Blog Post
 
-Lorem Ipaum dolor sit amet... [continue reading](blog)
+[Blog Post link](blog)
