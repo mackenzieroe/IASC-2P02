@@ -1,4 +1,6 @@
-# Blog Post
+[Back](README.md)
+
+# Blog Post 
 
 Mackenzie Roe
 
@@ -49,11 +51,9 @@ Figure 2f from: Irimia R, Gottschling M (2016) Taxonomic revision of Rochefortia
 
 “Digital Humanities.” Dictionary.com, Dictionary.com, www.dictionary.com/browse/digital-humanities.
 
-“Humanities Approaches to Graphical Display.” Razor Tie Artery Foundation Announce New Joint Venture Recordings | Razor & Tie, Rovi Corporation, web.archive.org/web/20190203061748/http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+“Humanities Approaches to Graphical Display.” Razor Tie Artery Foundation Announce New Joint Venture Recordings | Razor & Tie, Rovi Corporation, "web.archive.org/web/20190203061748/http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html".
 
 
 
 
-## Blog Post
 
-Blog content... [Back](README.md)
