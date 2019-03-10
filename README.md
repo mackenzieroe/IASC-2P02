@@ -6,7 +6,7 @@ As a digital humanist myself, I find discussing new forms of information gatheri
 
 [markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-![test image size](images/download.png){:height="3264px" width="4928px"} 
+![test image size](images/download.png){:height="50%" width="50%"} 
 
 ## Blog Post
 
