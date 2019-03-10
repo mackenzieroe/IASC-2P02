@@ -25,7 +25,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 80%; height: 80%;' src='//voyant-tools.org/tool/CollocatesGraph/?query=data&mode=corpus&corpus=bf781e4f47aba8120a86250e61dab3f2'></iframe>
+<iframe style='width: 400px; height: 200px;' src='//voyant-tools.org/tool/CollocatesGraph/?query=data&mode=corpus&corpus=bf781e4f47aba8120a86250e61dab3f2'></iframe>
 (Sinclair, S & Rockwell, G. Voyant Tools.)
 
    Users are then able to interpret the text differently than others as they form links in the graph, which in turn allows for multiple discussions and conclusions to arise as information is compared. The words, lines, line sizes, colour, and essentially connections, allow for further investigation into the topic and allows digital humanists to find new ways to discuss and display ever-evolving opinions and topics.
