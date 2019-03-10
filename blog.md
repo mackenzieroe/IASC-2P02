@@ -29,7 +29,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 400px; height: 200px;' src='//voyant-tools.org/tool/CollocatesGraph/?query=data&mode=corpus&corpus=bf781e4f47aba8120a86250e61dab3f2'></iframe>
+<iframe style='width: 800px; height: 400px;' src='//voyant-tools.org/tool/CollocatesGraph/?query=data&mode=corpus&corpus=bf781e4f47aba8120a86250e61dab3f2'></iframe>
 
 (Sinclair, S & Rockwell, G. Voyant Tools.)
 
