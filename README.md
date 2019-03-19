@@ -10,3 +10,7 @@ As a digital humanist myself, I find discussing new forms of information gatheri
 ## Blog Post
 
 [Blog Post link](blog)
+
+## Solo Presentation
+
+[Solo Presentation link](reveal)
