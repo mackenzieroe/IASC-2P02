@@ -13,4 +13,4 @@ As a digital humanist myself, I find discussing new forms of information gatheri
 
 ## Solo Presentation
 
-[Solo Presentation link](reveal/index.html)
+[Solo Presentation link](reveal1/index.html)
