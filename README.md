@@ -8,7 +8,7 @@ As a digital humanist myself, I find discussing new forms of information gatheri
 
 
 
-## Featured Project 
+## Featured Project : Finding New Ways to Compare
 
 ![](images/DH.png)
 
