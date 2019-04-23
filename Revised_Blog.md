@@ -1,21 +1,22 @@
 [Back](README.md)
 
-# Revised Blog Post 
+# Blog Post 
 
-By: Mackenzie Roe
+Mackenzie Roe
 
+Dr. Alex Christie
 
+IASC 2P02
+
+3 March 2019
 
 Finding New Ways to Compare
 
    Examination of Digital Humanities allows for a greater understanding of data analysis when it comes to graphs. Throughout comparing two different data elements, both space (A) and time (B) have no room for interpretation, thus this can create issues when it comes to analyzing the data with Digital Humanities insight. An issue that arises in digital humanities is the use of linear graphs as there is limited room for interpretation of variables. Multiple forms of data display would resolve the issue of having a  limited range of data to compare when trying to formulate a conclusion. Interpretation of GIFs, video files, topic models and other forms of digital graphs displaying more than two datasets, allows research of a wider range of data and leads to the possibility of infinite conclusions. 
    
-   As Henri Bergson argues we conceive of time in spatial terms, Franco Moretti continues his argument as he examines graphs relating to the perspective of linear time as a concept that can be changed. Many ideas were examined by Franco Moretti as his graphs displayed the perspective of linear time as a concept that can be redesigned and ultimately affect the view of time in spatial terms. Moretti’s graphs allow for a new interpretation that time cannot be compared with the common linear format of left (being the past) to the right (being a future time) as a point A to point B comparison. This can be directly related to a quote from Drucker’s article Humanities Approaches to Graphical Display, “The point I’m making is that the basic categories of supposedly quantitative information, the fundamental parameters of chart production, are already interpreted expressions. But they do not present themselves as categories of interpretation...” (Drucker, J. 12. 2011). This quote demonstrates two forms of data that are being compared in a linear graph. Though the analysis of the graph Drucker investigates the idea of using more than two sets of data to allow for further knowledge. This allows the reader a broader interpretation; more than just A and B datasets, that are required in order to form a proper comparison. Drucker and Moretti’s articles, examine a new way of viewing graphs and explore variables in space (A) and time (B) for a wider range of interpretation. Figure 7 which displays Moretti’s graph supports that linear graphs can be viewed in a non-linear way. There are always broad ways to interpret information that is being displayed. The graph displays Epistolary with a solid line, Gothic with cut lines and Historical as a dotted line which leads to the interpretation that it is possible for one graph to have multiple ways of data analysis.
+   As Henri Bergson argues we conceive of time in spatial terms, Franco Moretti continues his argument as he examines graphs relating to the perspective of linear time as a concept that can be changed. Many ideas were examined by Franco Moretti as his graphs displayed the perspective of linear time as a concept that can be redesigned and ultimately affect the view of time in spatial terms. Moretti’s graphs allow for a new interpretation that time cannot be compared with the common linear format of left (being the past) to the right (being a future time) as a point A to point B comparison. This can be directly related to a quote from Drucker’s article Humanities Approaches to Graphical Display, “The point I’m making is that the basic categories of supposedly quantitative information, the fundamental parameters of chart production, are already interpreted expressions. But they do not present themselves as categories of interpretation...” (Drucker, J. 12. 2011). This quote demonstrates two forms of data that are being compared in a linear graph. Though the analysis of the graph Drucker investigates the idea of using more than two sets of data to allow for further knowledge. This allows the reader a broader interpretation; more than just A and B datasets, that are required in order to form a proper comparison. Drucker and Moretti’s articles, examine a new way of viewing graphs and explore variables in space (A) and time (B) for a wider range of interpretation. 
 
-![test image size](images/Figure_7.png){:height="50%" width="50%"} 
-
- This supports the ideology of digital humanists as they are pushing for new modern ways of interpreting information.
-
+   With the use of figure 2, Drucker displays exactly how comparing data sets can contain more forms of information visualization.
 
 ![test image size](images/Figure_1.png){:height="50%" width="50%"} 
 
