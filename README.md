@@ -6,7 +6,7 @@
 
 ![](images/digital-huge-manatees.jpg)
 
-## Featured Project: [Blog Post]
+## Featured Project: [Blog Post](Revised_Blog.md)
 
 ![](images/featured.jpg)
 
