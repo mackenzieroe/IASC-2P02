@@ -2,14 +2,11 @@
 
 # Blog Post 
 
+By:
 Mackenzie Roe
 
-Dr. Alex Christie
 
-IASC 2P02
-
-3 March 2019
-
+Title:
 Finding New Ways to Compare
 
    Examination of Digital Humanities allows for a greater understanding of data analysis when it comes to graphs. Throughout comparing two different data elements, both space (A) and time (B) have no room for interpretation, thus this can create issues when it comes to analyzing the data with Digital Humanities insight. An issue that arises in digital humanities is the use of linear graphs as there is limited room for interpretation of variables. Multiple forms of data display would resolve the issue of having a  limited range of data to compare when trying to formulate a conclusion. Interpretation of GIFs, video files, topic models and other forms of digital graphs displaying more than two datasets, allows research of a wider range of data and leads to the possibility of infinite conclusions. 
