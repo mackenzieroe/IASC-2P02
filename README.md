@@ -1,8 +1,9 @@
 
 # IASC 2P02 | Mackenzie Roe
-## Bio
 
+## Bio:
 
+As a digital humanist myself, I find discussing new forms of information gathering, analysis and visualization extremely interesting and fun. As a second-year Brock University  IASC (Interactive Arts and Science) student, being able to explore all areas of Digital Humanities allows for a great time in class discussions and to gain a larger insight into the digital world and how it affects us all. With all of my projects to date within the course 2P02 as well as other courses throughout my major and electives I have been able to specialize in my wanted career which is User Interface/User Experience Design. With both written and applied work being relatable to design and user understanding, I have been able to increase my skills and set up a strong portfolio to have me prepared for Co-Ops and internships as well as career preparedness. My portfolio displays work that was completed by me in high school as well as university projects and work. This allows the reader to visualize exactly how my techniques and skills have grown over time and how they have evolved over my participation in the Interactive Arts and Science program. With pursuing a career within digital humanities I would also like to continue writing about data sets and visualization tool, how over time we will have to come up with new ways of comparing information that was once thought of as not being possible. A great example of this would be finding new creative ways to compare two data sets that were once not possible, comparing dogs with planes. This comparison wouldn't make much sense but with a digital humanities mindset, it could become possible. I am setting out to help change the way we compare data sets and I hope to one day be able to make an impact.
 
 ![](images/digital-huge-manatees.jpg)
 
@@ -48,11 +49,13 @@ Link: [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/d
 2: 
 Description: Picture of slide 3/4
 Picture:
+<p></p>
 ![test image size](images/Overall_Usability.png){:height="50%" width="50%"}
 
 3: 
 Description: Picture of slide 4/4 
 Picture: 
+<p></p>
 ![test image size](images/Resource.png){:height="50%" width="50%"}
 
 
