@@ -7,9 +7,10 @@ As a digital humanist myself, I find discussing new forms of information gatheri
 
 ![](images/digital-huge-manatees.jpg)
 
-## Featured Project: [Blog Post](Revised_Blog.md)
 
 ![](images/featured.jpg)
+
+## Revised Blog Post 
 
 Introduction:
 
@@ -26,7 +27,7 @@ Change 2: [here](https://github.com/mackenzieroe/IASC-2P02/commit/86f395133f7a6d
 Change 3: [here](https://github.com/mackenzieroe/IASC-2P02/commit/b9d2ce55f4d05efc8758af846c7d9260089bd117) Description: In addition to the changes under “Change 2” I built upon the comment that Moretti’s claims about progress as an oscillation or a pendulum might allow us to view those linear graphs in non-linear ways was fixed by expanding upon this point.  
 
 
-Read [Finding New Ways to Compare](Revised_Blog.md)
+## Blog Post Revised [Finding New Ways to Compare](Revised_Blog.md)
 
 ## Collaborative Project
 
