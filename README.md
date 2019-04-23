@@ -7,7 +7,6 @@ As a digital humanist myself, I find discussing new forms of information gatheri
 
 ![](images/digital-huge-manatees.jpg)
 
-
 ## Featured Project: [Blog Post](Revised_Blog.md)
 
 ![](images/featured.jpg)
@@ -28,7 +27,6 @@ Change 3: [here](https://github.com/mackenzieroe/IASC-2P02/commit/b9d2ce55f4d05e
 
 
 Read [Finding New Ways to Compare](Revised_Blog.md)
-
 
 ## Collaborative Project
 
@@ -58,11 +56,9 @@ Picture:
 <p></p>
 ![test image size](images/Resource.png){:height="50%" width="50%"}
 
-
 ## Research Presentation
 
-[The Newton and Siri](reveal1/index.html)
-
+[APPLE'S NEWTON - SIRI... THE PERSONAL DIGITAL (BUSINESS) ASSISTANT](reveal1/index.html)
 
 ## Academic Blog
 
